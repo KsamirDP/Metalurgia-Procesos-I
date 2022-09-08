@@ -7,4 +7,5 @@ esas 6 semanas estaran divididas en 3 actividades. Dentro de cada actividad exis
 Luego de esas 6 semanas se realizara un examen final de todo el contendio desarrollado en el curso.
 
 Saludos y Exitos.
+
 Ing. Samir Dominguez
